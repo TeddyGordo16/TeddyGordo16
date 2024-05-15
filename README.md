@@ -1,8 +1,14 @@
-### Estou estudando na Alura
+### Boas vindas ao meu perfil 💜💜
+Meu nome é Emilly Dantas
 
-Estou me desenvolvendo na linguagem JavaScript,
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
-Você pode entrar em contato comigo 
+•Estou estudando na Alura
+
+•Estou me desenvolvendo na linguagem JavaScript
+
+•Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+•Você pode entrar em contato comigo
+
 📫
 00001078142646SP@al.educacao.sp.gov.br
 
