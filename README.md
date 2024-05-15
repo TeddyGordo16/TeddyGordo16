@@ -7,9 +7,8 @@ Meu nome é Emilly Dantas
 
 •Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-•Você pode entrar em contato comigo
+**Você pode entrar em contato comigo**📫
 
-📫
 00001078142646SP@al.educacao.sp.gov.br
 
 @TeddyGordo16
